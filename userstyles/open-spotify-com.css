@@ -1,0 +1,78 @@
+/* spectrum image */
+        img.n5XwsUqagSoVk8oMiw1x, 
+        img.DZJJ5SCypi2mREbjy5bx, 
+        img.X_HqPouENflGygaUXNus {
+            filter: opacity(01) hue-rotate(55deg);
+        }
+
+/* BAR */
+.dQoZDg5x_6337uhcvvdP, .f9pLH3HRZQxdDLzNqKjE {
+    background-color: rgb(92 95 119 / 50%);
+    backdrop-filter: blur(50px);
+}
+
+/* LEFT NAV */
+#Desktop_LeftSidebar_Id, .OR9izNpUGviUYBP_yQR2.doInDAjF8E_MHAPBv9fb {
+    background: transparent;
+}
+.vlH99nxvCKwDGQrD0B0M {
+    background-color: rgb(92 95 119 / 50%);
+    backdrop-filter: blur(50px);
+}
+.OR9izNpUGviUYBP_yQR2.doInDAjF8E_MHAPBv9fb {
+    border-radius: 0;
+}
+
+/* CENTER */
+#main-view.HD6RiDXIzzF9i4Bx26AE {
+    background-color: rgb(92 95 119 / 50%);
+    backdrop-filter: blur(50px);
+    border-radius: 0;
+}
+.YdoIqRxigDKvBm7a7GSq {
+    background: transparent !important;
+}
+.PfgTAe4hVhuNFZRuuKQG {
+    background-color: rgb(92 95 119 / 100%);
+    backdrop-filter: blur(50px);
+    border-radius: 0;
+}
+
+
+/* RIGHT NAV */
+.lAtoMFm8vg4yAlGztUxI,
+.bVJH37qfz55VdpglJjHJ.tNb7aUcV3vqnG66qYF13,
+.NdlHvD4nJ60_AhmI2cQK,
+.pP41asBpzic1bRlrsDcs,
+.oXO9_yYs6JyOwkBn8E4a,
+#Desktop_PanelContainer_Id,
+.iHa_q9pq4un3VNRQgwTx,
+.ZWs_BNtabE4F1v34pU93.mpdgC9UTkN5_fMm1pFiz,
+.zAvxP9ntNk6SsomFXWUv {
+    background-color: rgb(92 95 119 / 50%);
+    border-radius: 0;
+}
+
+.uYfQVmF6J8ESfrb6dG6D {
+    background-color: rgb(92 95 119 / 50%);
+    backdrop-filter: blur(50px);
+    border-radius: 0;
+}
+
+/* RIGHT NAV HEADER WHEN SCROLLING DOWN */
+.niJOWstqVyfckHcXQxP1 .cSZJwcwYgJfwduUmXOOV {
+    background-color: rgb(92 95 119 / 50%);
+    backdrop-filter: blur(50px);
+}
+
+/* BG */
+:root #main > * > *, :root .sqKERfoKl4KwrtHqcKOd, :root .HkbHLcqgUfXruL5xVi28, :root .uhDzVbFHyCQDH6WrWZaC, :root .pHrwZOFBdT8FNXnmcPPI {
+            background-color: rgb(92 95 119 / 50%) !important;
+            backdrop-filter: blur(5px) !important;
+}
+.Root.global-nav.centered-layout {
+    background: url("http://raw.githubusercontent.com/shygyver/crispy-assets/refs/heads/main/images/winter-tree-2-noise.png") 0px fixed !important;
+            background-position: center !important;
+            background-size: cover !important;
+            background-repeat: no-repeat !important;
+}
